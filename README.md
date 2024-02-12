@@ -1,12 +1,13 @@
 # XmasSalesInsights
-XmasSalesInsights provides predictive analytics for Christmas sales. Discover top products, popular purchase types, and customer segments driving sales. Leverage historical data for targeted strategies and optimal promotions, enhancing your holiday season planning
+XmasSalesInsights provides predictive analytics for Christmas sales. Discover top products, popular purchase types, and customer segments driving sales. Leverage historical data for targeted strategies and optimal promotions, enhancing your holiday season planning.
 
 Sales Prediction: 
-  a. Anticipate the top Christmas sale products for the upcoming year.
+
+ a. Anticipate the top Christmas sale products for the upcoming year.
+
+ b. Identify the country with the highest historical Christmas sales.
   
-  b. Identify the country with the highest historical Christmas sales.
-  
-  c. Determine the trending purchase type based on historical data.
+ c. Determine the trending purchase type based on historical data.
 
 Customer Segmentation:
   
